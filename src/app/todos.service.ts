@@ -8,10 +8,16 @@ export class TodosService {
   constructor() {
     this.tasks = [
       {
-        title: 'Switch on the power'
+        title: 'Switch on the power',
+        completed: false
       },
       {
-        title: 'Enter password'
+        title: 'Enter password',
+        completed: false
+      },
+      {
+        title: 'Use the computer',
+        completed: false
       }
     ];
   }
