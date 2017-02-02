@@ -3,7 +3,7 @@
 </h1>
 
 <ul>
-  <li *ngFor="let task of todo.tasks">
-    {{ task.title }}
+  <li *ngFor="let task of todoService.tasks">
+    <app-todos [task]="task"></app-todos>
   </li>
 </ul>

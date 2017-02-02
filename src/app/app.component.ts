@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {TodoService} from "./todo.service";
+import {TodosService} from "./todos.service";
 
 @Component({
   selector: 'app-root',
@@ -11,6 +11,6 @@ export class AppComponent {
   title = 'app works!';
 
   constructor(
-    private todo:TodoService
+    private todoService:TodosService
   ){}
 }
