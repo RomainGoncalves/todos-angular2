@@ -88,8 +88,8 @@
     zone.js "^0.7.2"
 
 "@angular/common@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.4.5.tgz#ada1a22b7ba01d1fdeb300115584478e031e9a4f"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.4.6.tgz#f005528f75d0a6deaaf636f3b779f26bda4adb07"
 
 "@angular/compiler-cli@2.4.5", "@angular/compiler-cli@^2.3.1":
   version "2.4.5"
@@ -100,32 +100,32 @@
     reflect-metadata "^0.1.2"
 
 "@angular/compiler@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.4.5.tgz#521da325e2e002398e8f9de52cfb03d303729e72"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.4.6.tgz#17236b858f5730eed257d93e90bcbae45e21e0fe"
 
 "@angular/core@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.4.5.tgz#8b05156398afde9636e65527ffb61fc74236af5a"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.4.6.tgz#4abec78ee035b27e8192acf70409c3dbca24e829"
 
 "@angular/forms@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-2.4.5.tgz#468bd040518595c3598742ac1a22c506a7f1ab0f"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-2.4.6.tgz#aca73ad404ebe3022ffb6461cb6c06da864185fe"
 
 "@angular/http@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/http/-/http-2.4.5.tgz#de94b2daa4ff24e8b6c8839ffaf8089b62d4430b"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/http/-/http-2.4.6.tgz#32952ce82558f939be52863faa8cab19b20351fd"
 
 "@angular/platform-browser-dynamic@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.4.5.tgz#36fa975a8ee2dfe3f60bab561143974e6bdb1eff"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.4.6.tgz#d50d8b66f7fa00c0449f33c2c1b5348b67c9fcda"
 
 "@angular/platform-browser@^2.3.1":
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-2.4.5.tgz#fa1bc891b1309bca83845787b9a08db36a787fee"
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-2.4.6.tgz#ded44169d4a870d5ee40e95496d34e9ab03c2c3a"
 
 "@angular/router@^3.3.1":
-  version "3.4.5"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-3.4.5.tgz#5a471a4e49a7eba6a460761129c0684a4b730a1a"
+  version "3.4.6"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-3.4.6.tgz#df708503f2006a090a2704f5490a9ea1ba9fc9d0"
 
 "@angular/tsc-wrapped@0.5.1", "@angular/tsc-wrapped@^0.5.0":
   version "0.5.1"
@@ -138,8 +138,8 @@
   resolved "https://registry.yarnpkg.com/@ngtools/json-schema/-/json-schema-1.0.2.tgz#d4158c66ef2bf6db74fd507376cda5bddd0281fb"
 
 "@ngtools/webpack@^1.2.3":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-1.2.6.tgz#21c1ed2daecb3dfab530cbfaf96a4359be9a1226"
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-1.2.7.tgz#810f61435c700bc559833cb23d8283b5d9791e90"
   dependencies:
     enhanced-resolve "^2.3.0"
     loader-utils "^0.2.16"
@@ -187,8 +187,8 @@ acorn-dynamic-import@^2.0.0:
     acorn "^4.0.3"
 
 acorn@^4.0.3, acorn@^4.0.4:
-  version "4.0.7"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.7.tgz#084596cd4636f796d2273990c699e13fe4092ac8"
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.8.tgz#f41e52020ce78118a3c68ed0e9215eb8fc68b5b1"
 
 adm-zip@0.4.4:
   version "0.4.4"
@@ -643,6 +643,10 @@ builtin-modules@^1.0.0:
 builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
+
+bulma@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.3.1.tgz#0166be77e7a5f62ede01b0be3f1e77e954978bd2"
 
 bytes@2.3.0:
   version "2.3.0"
