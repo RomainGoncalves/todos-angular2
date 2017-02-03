@@ -91,7 +91,7 @@
   version "2.4.5"
   resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.4.5.tgz#ada1a22b7ba01d1fdeb300115584478e031e9a4f"
 
-"@angular/compiler-cli@^2.3.1":
+"@angular/compiler-cli@2.4.5", "@angular/compiler-cli@^2.3.1":
   version "2.4.5"
   resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-2.4.5.tgz#efabbe10558b233dcdfe985af2bd2e84f1414c97"
   dependencies:
@@ -187,8 +187,8 @@ acorn-dynamic-import@^2.0.0:
     acorn "^4.0.3"
 
 acorn@^4.0.3, acorn@^4.0.4:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.5.tgz#d5c76ef581c59748047067e2fc96302b1333c132"
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.7.tgz#084596cd4636f796d2273990c699e13fe4092ac8"
 
 adm-zip@0.4.4:
   version "0.4.4"

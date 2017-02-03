@@ -8,7 +8,7 @@ import {TodosService} from "./todos.service";
 })
 
 export class AppComponent {
-  title = 'app works!';
+  title = 'Todos';
 
   constructor(
     private todoService:TodosService

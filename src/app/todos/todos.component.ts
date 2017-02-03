@@ -9,7 +9,9 @@ import {Component, OnInit, Input} from '@angular/core';
 export class TodosComponent implements OnInit {
 
   triggerCompletion(task){
-    task.completed = !task.completed;
+    setTimeout(function(){
+      task.completed = !task.completed;
+    }, 200);
   }
 
   @Input() task;
