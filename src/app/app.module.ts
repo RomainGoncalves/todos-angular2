@@ -6,11 +6,13 @@ import {HttpModule} from '@angular/http';
 import {AppComponent} from './app.component';
 import {TodosService} from "./todos.service";
 import { TodosComponent } from './todos/todos.component';
+import { HeroComponent } from './hero/hero.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    TodosComponent
+    TodosComponent,
+    HeroComponent
   ],
   imports: [
     BrowserModule,

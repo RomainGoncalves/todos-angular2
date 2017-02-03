@@ -1,7 +1,7 @@
-input[type=checkbox] + label{
+label{
   cursor: pointer;
 }
 
-input[type=checkbox] + label.complete{
+label.complete{
   text-decoration: line-through;
 }
